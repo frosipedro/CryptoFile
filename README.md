@@ -242,3 +242,10 @@ Distribuído sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para 
 ```
 Copyright (c) 2026 Pedro Rockenbach Frosi
 ```
+
+---
+
+## Créditos
+
+- Cristian dos Santos Siquiera — https://github.com/CristianSSiqueira
+- Pedro Rockenbach Frosi — https://github.com/frosipedro
